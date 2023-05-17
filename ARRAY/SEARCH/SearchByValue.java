@@ -1,3 +1,5 @@
+// search by value
+
 public class SearchByValue{
     public static void main(String[] args) {
         int[] a1 = {1,21,34,2,4,2,52,5};
